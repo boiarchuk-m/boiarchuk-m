@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boiarchuk-m&show_icons=true&locale=en&layout=compact" alt="boiarchuk-m" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boiarchuk-m&show_icons=true&locale=en" alt="boiarchuk-m" /></p>
+
 
 
 
